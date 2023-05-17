@@ -7,3 +7,5 @@
 `c = a + b` save [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 `a > b & b > c  => a > c` save  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+`b > c, a + b < d => a + c < d` save [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
